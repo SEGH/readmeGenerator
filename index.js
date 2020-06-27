@@ -13,6 +13,42 @@ const questions = [
         type: "input",
         message: "What is the title of your README.md?",
         name: "title"
+    },
+    {
+        type: "input",
+        message: "Enter the text for the README description.",
+        name: "description"
+    },
+    {
+        type: "input",
+        message: "Enter the instructions for the README installation.",
+        name: "installation"
+    },
+    {
+        type: "input",
+        message: "Enter the instructions for the project's usage.",
+        name: "usage"
+    },
+    {
+        type: "list",
+        message: "Select a license for the project.",
+        name: "license",
+        choices: ["MIT", "Unlicense", "BSL-1.0", "Apache-2.0", "MPL-2.0", "LGPL-3.0-or-later", "GPL-3.0-or-later", "AGPL-3.0-or-later"]
+    },
+    {
+        type: "input",
+        message: "Enter the instructions for contributing to project.",
+        name: "contributing"
+    },
+    {
+        type: "input",
+        message: "What is your GitHub username?",
+        name: "username"
+    },
+    {
+        type: "input",
+        message: "What is your email address?",
+        name: "email"
     }
 ];
 
