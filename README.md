@@ -31,6 +31,8 @@
 
   <img src="./assets/images/generated.png" width="280"><img src="./assets/images/preview.png" width="280">
 
+  * Watch this short [video demo](https://drive.google.com/file/d/1U7kUoNfzEufau9SDiDM7jbeiaWGTSLsE/view)
+  
   ## License
   Licensed under the Unlicense license.
 
